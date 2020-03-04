@@ -1,0 +1,8 @@
+creditar 1 100
+lerSaldo 1
+transferir 1 2 50
+transferir 2 1 20
+simular 0
+debitar 2 30
+simular 0
+sair

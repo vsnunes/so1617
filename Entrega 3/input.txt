@@ -1,0 +1,15 @@
+creditar 1 1000
+creditar 2 2000
+simular 0
+transferir 1 2 10
+transferir 1 2 10
+lerSaldo 1
+lerSaldo 2
+creditar 3 3000
+transferir 3 2 1000
+transferir 2 3 500
+transferir 1 1 100
+simular 0
+transferir 1 2 100
+transferir 1 3 100
+sair
